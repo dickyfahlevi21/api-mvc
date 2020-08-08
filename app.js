@@ -6,7 +6,7 @@ const rootIndex = require('./src/routes/index')
 const routerAuthor = require('./src/routes/author')
 
 app.use('/', rootIndex)
-app.use('/author', routerAuthor)
+app.use('/login', routerAuthor)
 
 
 app.listen(port, () => {

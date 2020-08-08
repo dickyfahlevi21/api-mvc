@@ -1,7 +1,10 @@
 # API MVC
 membuat backend server meggunakan mvc concept yang nantinya bisa di gunakan di pake postman dengan data yang table
 
-## Progress
+## Progress auth
+Sudah sukses auth dengan facebook dan ngrok.
+
+## Progress MVC
 baru success untuk hello world dan routing
 
 ### link task
