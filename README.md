@@ -2,7 +2,7 @@
 membuat backend server meggunakan mvc concept yang nantinya bisa di gunakan di pake postman dengan data yang table
 
 ## Progress auth
-Sudah sukses auth dengan facebook dan ngrok
+Sudah sukses auth dengan facebook dan ngrok.
 
 ## Progress MVC
 baru success untuk hello world dan routing
