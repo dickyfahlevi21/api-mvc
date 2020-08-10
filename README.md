@@ -2,8 +2,7 @@
 membuat backend server meggunakan mvc concept yang nantinya bisa di gunakan di pake postman dengan data yang table
 
 ## Progress auth
-auth dengan facebook dan ngrok, run "watch": "nodemon server.js"
-auth dengan jwt, run "watch": "nodemon server-local.js"
+auth dengan jwt, run "watch": "nodemon server.js"
 
 ## Progress MVC
 add author router and controllers
